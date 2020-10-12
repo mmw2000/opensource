@@ -12,14 +12,13 @@
 
 ## GitHub을 이용하여 협업하기
 - 버전관리 시스템이란?
-  - 로컬 버전 관리 시스템 (LVCS)
-  - 중앙집중식 버전 관리 (CVCS)
-  - 분산 버전 관리 시스템 (DVCS)
-- Local Repository
-- Remote Repository
-- Branch
-- Push
+ - 로컬 버전 관리 시스템 (LVCS)
+ - 중앙집중식 버전 관리 (CVCS)
+ - 분산 버전 관리 시스템 (DVCS)
+- Oush
 - Pull
+- Branch
+
 
 ## 오픈소스 개발환경 구축하기
 
