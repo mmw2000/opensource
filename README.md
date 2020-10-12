@@ -15,6 +15,11 @@
   - 로컬 버전 관리 시스템 (LVCS)
   - 중앙집중식 버전 관리 (CVCS)
   - 분산 버전 관리 시스템 (DVCS)
+- Local Repository
+- Remote Repository
+- Branch
+- Push
+- Pull
 
 ## 오픈소스 개발환경 구축하기
 
